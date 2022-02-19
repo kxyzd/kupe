@@ -1,2 +1,3 @@
 # vtp
-very toy projects
+
+сборник всякой дряни, гыыы
