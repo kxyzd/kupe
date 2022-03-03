@@ -58,10 +58,10 @@ module WebTrash
     private
 
     def read_headers
-      headers = []
+      headers = Headers.new
       until (header = @conn.gets) == "\r\n"
         headers << header; end
-      @headers = Headers.new headers
+      @headers = headers
     end
 
     def read_body
@@ -111,17 +111,16 @@ module WebTrash
   class Headers
     extend Forwardable
 
-    def initialize(headers_req)
-      @hash = parse(headers_req).to_h
+    def initialize
+      @hash = {}
+    end
+
+    def <<(header)
+      k, v = header.chomp.split(?:, 2)
+      @hash[k] = v
     end
 
     def_delegators :@hash, :[], :inspect, :to_s
-
-    private
-
-    def parse(headers_req)
-      headers_req.map!(&:chomp!).map { _1.split(?:, 2) }
-    end
   end
 
 end
