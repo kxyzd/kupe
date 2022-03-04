@@ -82,8 +82,7 @@ class Guu
   class GuuError < StandardError; end
 
   def initialize(main: 'main')
-    @variables, @subprocs = {}, {}
-    @guu_objs = GuuObjects.new @variables
+    @guu_objs = GuuObjects.new({})
     @stacktrace = []
     @main_subproc = main
   end
