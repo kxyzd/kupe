@@ -1,0 +1,13 @@
+sub main
+  set x 1
+  set y x
+  print x
+  set y 3
+  call foo
+sub foo
+  print y
+  set e 9
+  call bar
+sub bar
+  print e
+
