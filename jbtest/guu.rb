@@ -92,8 +92,7 @@ class Guu
     tokens = TokenStream.new tokenize source
     preinterpreter tokens
     
-    @stacktrace << (subproc = GuuSubProc[@main_subproc])
-    interpreter subproc
+    interpreter GuuSubProc[@main_subproc]
 
     binding.pry if pry
   end
@@ -121,6 +120,8 @@ class Guu
 
   def interpreter(subproc)
     tokens = subproc.body.dup
+    @stacktrace << subproc
+
     until tokens.empty?
 
       debughook({
@@ -139,7 +140,6 @@ class Guu
         when 'call'
           name_subproc = tokens.next :value
           subproc = GuuSubProc[name_subproc]
-          @stacktrace << subproc
           interpreter subproc
         else
           raise GuuError.new \
