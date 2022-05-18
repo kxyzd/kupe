@@ -1,5 +1,3 @@
-# vtp
-
 сборник всякой дряни, гыыы
 
 - [Тупой rack-веб-сервер за вечер](https://katkitkat.ru/posts/tiny-rack-web-server-in-ruby)

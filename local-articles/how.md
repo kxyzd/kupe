@@ -1,3 +1,8 @@
+---
+layout: post
+category: example
+---
+
 # Как?
 
 ```ruby
