@@ -30,7 +30,7 @@ Cборник всякой дряни, гыыы
 
 - [Parser Combinators From Scratch](https://youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
 
-## About language implication
+## About language implementation and theory
 
 Смотрите [awesome-compilers](https://github.com/aalhour/awesome-compilers#books).
 
