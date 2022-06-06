@@ -10,6 +10,11 @@ Cборник всякой дряни, гыыы
 
 - [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos/playlists)
 
+## Канкаранси и т.д. т.п.
+
+- [Build Your Own Async](https://youtu.be/Y4Gt3Xjd7G8)
+- [Promises and Async/Await From Scratch](https://youtube.com/playlist?list=PLP29wDx6QmW7IaD762Rf_Awfr1Wxz0Amq)
+
 ## WebSocket
 
 - [Writing a WebSocket server in C#](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_server)
@@ -20,6 +25,10 @@ Cборник всякой дряни, гыыы
 - [Building a Regex Engine](https://www.abstractsyntaxseed.com/tags/regex-engine)
 - [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex)
 - [Build a Regex Engine in Less than 40 Lines of Code](https://nickdrane.com/build-your-own-regex/)
+
+## Parser
+
+- [Parser Combinators From Scratch](https://youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
 
 ## About language implication
 
