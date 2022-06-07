@@ -63,6 +63,10 @@ Cборник всякой дряни, гыыы
 - [Build your own Command Line with ANSI escape codes](https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 - [ANSI Escape Sequences](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 
+## Functional programming
+
+- [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) ([video]()https://youtube.com/playlist?list=PLVFrD1dmDdvcjCQDPhExqP56jqxp0Ssn)
+
 ## Others
 
 - [Руководство CSharp Streams - двоичные потоки в C#](https://betacode.net/10535/csharp-binary-streams)
