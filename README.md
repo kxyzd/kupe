@@ -65,7 +65,7 @@ Cборник всякой дряни, гыыы
 
 ## Functional programming
 
-- [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) ([video]()https://youtube.com/playlist?list=PLVFrD1dmDdvcjCQDPhExqP56jqxp0Ssn)
+- [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) ([video](https://youtube.com/playlist?list=PLVFrD1dmDdvcjCQDPhExqP56jqxp0Ssn))
 
 ## Others
 
