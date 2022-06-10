@@ -8,7 +8,7 @@ Cборник всякой дряни, гыыы
 
 ## База
 
-- [Перевод классического курса от MIT по SICP](https://youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC) (не до конца переведён)
+- [Перевод классического курса от MIT по SICP](https://youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC) (перевод идёт)
 
 ## Алгоритмы и структуры данных
 
