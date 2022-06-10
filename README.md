@@ -6,6 +6,10 @@ Cборник всякой дряни, гыыы
 - [Стажировка в JetBrains или как мне никогда туда не попасть](https://oldsitekatkitkat.netlify.app/posts/jetbrains-test)
 - [Пара мыслей об сериализации](https://katkitkat.ru/posts/a-couple-of-thoughts-on-serialization/)
 
+## База
+
+- [Перевод классического курса от MIT по SICP](https://youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC) (не до конца переведён)
+
 ## Алгоритмы и структуры данных
 
 - [WilliamFiset](https://www.youtube.com/c/WilliamFiset-videos/playlists)
