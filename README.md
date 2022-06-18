@@ -75,6 +75,10 @@ Cборник всякой дряни, гыыы
 
 - [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf) ([video](https://youtube.com/playlist?list=PLVFrD1dmDdvcjCQDPhExqP56jqxp0Ssn))
 
+## Blogs
+
+- [Блог Саши Беспоясова](https://bespoyasov.ru/blog/)
+
 ## Others
 
 - [Руководство CSharp Streams - двоичные потоки в C#](https://betacode.net/10535/csharp-binary-streams)
