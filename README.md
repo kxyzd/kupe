@@ -37,6 +37,7 @@ Cборник всякой дряни, гыыы
 ## Parser
 
 - [Parser Combinators From Scratch](https://youtube.com/playlist?list=PLP29wDx6QmW5yfO1LAgO8kU3aQEj8SIrU)
+- [Parser Combinators in Elixir](https://serokell.io/blog/parser-combinators-in-elixir)
 
 ## About language implementation and theory
 
