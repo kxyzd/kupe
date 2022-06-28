@@ -45,6 +45,7 @@ Cборник всякой дряни, гыыы
 
 - [Разработка компиляторов на платформе .NET](file:///C:/Users/utop/Downloads/Telegram%20Desktop/comp_dot-net.pdf)
 - [A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+- [Method Dispatch](https://habr.com/ru/post/673400/)
 
 ## Ruby specifics
 
