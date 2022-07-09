@@ -10,6 +10,11 @@ Cборник всякой дряни, гыыы
 
 ---
 
+## Книжки
+
+- Стек, или Путешествие туда и обратно
+- [Программируй & типизируй](https://habr.com/ru/company/piter/blog/554652/?ysclid=l5ec1blp1a670143912)
+
 ## База
 
 - [Перевод классического курса от MIT по SICP](https://youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC) (перевод идёт)
