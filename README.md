@@ -18,6 +18,7 @@ Cборник всякой дряни, гыыы
 ## База
 
 - [Перевод классического курса от MIT по SICP](https://youtube.com/playlist?list=PLc6AqfeLgwzPPK1H3XV1Wfb_CGvT6sXkC) (перевод идёт)
+- [Как посчитать длину текста и не привлекать внимание санитаров](https://habr.com/ru/company/avito/blog/675586/?ysclid=l5faqkste4597088160)
 
 ## Алгоритмы и структуры данных
 
