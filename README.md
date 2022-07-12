@@ -47,8 +47,11 @@ Cборник всякой дряни, гыыы
 
 ## About language implementation and theory
 
-Смотрите [awesome-compilers](https://github.com/aalhour/awesome-compilers#books).
+Самое ламповое введение на мой взгляд у Креншоу в "Пишем компилятор". Это запись лекций, весьма старых лекций, поэтому в некоторых моментах автор не прав уже на сегодняшний день. Там мало теории и одна практика. Причём реальная - там автор пишет компилятор Паскаля под реальный процессор(того времени). И, да, инструментарий старый, но это, как раз, то, что нам надо. Автор показывает очень простые приёмы, благодаря которым можно написать всё это на любой свистелки.
 
+Но если вам не понравилась первая книжка или вы её уже прочитали - берите (Crafting Interpreters)[https://craftinginterpreters.com/]. Классика наших дней. Лучшее, что найдёте. После неё смотрим [awesome-compilers](https://github.com/aalhour/awesome-compilers#books), а там вы уже сами будете гигачадом. 
+
+Другие ссылки:
 - [Разработка компиляторов на платформе .NET](file:///C:/Users/utop/Downloads/Telegram%20Desktop/comp_dot-net.pdf)
 - [A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 - [Method Dispatch](https://habr.com/ru/post/673400/)
