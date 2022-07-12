@@ -67,6 +67,8 @@ Cборник всякой дряни, гыыы
 
 ## Assembler
 
+- [ ] **ToDo**: Найти нормальные книжки по ассемблеру, чтобы прям для чтения перед сном. 
+
 - [Easy 6502](http://skilldrick.github.io/easy6502/)
 - [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/%D0%90%D1%81%D1%81%D0%B5%D0%BC%D0%B1%D0%BB%D0%B5%D1%80_%D0%B2_Linux_%D0%B4%D0%BB%D1%8F_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%B2_C)
 - [Intro to x86 Assembly Language](https://www.youtube.com/watch?v=wLXIWKUWpSs&list=PLmxT2pVYo5LB5EzTPZGfFN0c2GDiSXgQe)
