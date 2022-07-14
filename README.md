@@ -97,3 +97,4 @@ Cборник всякой дряни, гыыы
 ## Others
 
 - [Руководство CSharp Streams - двоичные потоки в C#](https://betacode.net/10535/csharp-binary-streams)
+- [Remote-SSH - правим код на сервере не покидая VSCode](https://zencod.ru/articles/vscode-remote-ssh/?ysclid=l5l6sfr8tk96085000%2F)
